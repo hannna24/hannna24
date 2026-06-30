@@ -1,11 +1,19 @@
-<h1 align="center">Hana Mohamed</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Hana's GitHub Stats" width="60%" />
+  
+  <!-- Dynamic Real-Time Developer Vector Illustration -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hana%20Mohamed&fontSize=40&animation=fadeIn&theme=tokyonight" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=007ec6&style=flat-square" alt="Profile Views" />
+  <!-- Dynamic Activity Typist Card -->
+  <a href="https://github.com/hannna24">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=AI+Engineer+and+SW+Dev;Building+Agentic+Workflows;Developing+Robust+RAG+Pipelines" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hannna24&label=Profile%20Views&color=007ec6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
